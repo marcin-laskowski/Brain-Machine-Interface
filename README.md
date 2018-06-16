@@ -1,6 +1,10 @@
 # Brain-Machine Interface
 The design a neural decoder designed to drive a hypothetical prosthetic device
 
+<p align="center">
+  <img width="1000" src="https://github.com/mlaskowski17/Brain-Machine-Interface/blob/master/images/brain.png">
+</p>
+
 ### Description
 The following code provide the design a neural decoder designed to drive a hypothetical prosthetic device. This is a realistic and difficult task in brain-machine interfacing. There are provided spike trains recorded from a monkey's brain, as it repeatedly performs an arm movement task. The algorithm was estimated from these data, the precise trajectory of the monkey's hand as he reaches for the target. This was a continuous estimation task. Over the course of each spike train, there was estimated the X & Y position of the monkey's hand at each moment in time.
 
